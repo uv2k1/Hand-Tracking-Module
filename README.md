@@ -3,7 +3,7 @@ Welcome to the Hand Tracking Module repository! This Python module leverages com
 
 Features
 
-Real-Time Hand Tracking: Detects and tracks hands in real-time using a webcam.
+**Real-Time Hand Tracking:** Detects and tracks hands in real-time using a webcam.
 Gesture Recognition: Recognizes predefined hand gestures.
 High Accuracy: Utilizes state-of-the-art machine learning models for accurate hand detection and tracking.
 Easy Integration: Simple API for integrating hand tracking capabilities into your projects.
